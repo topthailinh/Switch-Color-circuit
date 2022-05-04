@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=DZ1 Old Footprint=DIO-SMD-106 New Footprint=DIO-2A
+Change Component Footprint: Designator=D1 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Added Member To Class: ClassName=RD_BUCK Member=Component L? Inductor

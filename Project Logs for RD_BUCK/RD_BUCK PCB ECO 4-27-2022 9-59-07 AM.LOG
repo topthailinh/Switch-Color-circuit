@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=1 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=2 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=3 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Added Pin To Net: NetName=Vdc Pin=C4-2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=Vdc Pin=DB1-1
+Added Pin To Net: NetName=NetC5_2 Pin=DZ1-1
+Added Pin To Net: NetName=NetC5_2 Pin=DZ2-1
+Added Pin To Net: NetName=Vdc Pin=EC1-1
+Added Pin To Net: NetName=NetC5_2 Pin=EC1-2
+Added Pin To Net: NetName=Vdc Pin=EC2-1
+Added Pin To Net: NetName=Vdc Pin=J1-1
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=OPTO1-3
+Added Pin To Net: NetName=NetC5_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC5_2 Pin=Q2-3
+Added Pin To Net: NetName=Vdc Pin=R1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Pin To Net: NetName=Vdc Pin=R2-1
+Added Pin To Net: NetName=Vdc Pin=R3-1
+Added Pin To Net: NetName=NetC5_2 Pin=R5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R6-2
+Added Pin To Net: NetName=Vdc Pin=U1-4
+Added Pin To Net: NetName=Vdc Pin=U2-4
+Added Pin To Net: NetName=Vdc Pin=U2-4
+Added Member To Class: ClassName=RD_BUCK Member=Component L1 L-DIP-1
+Added Member To Class: ClassName=RD_BUCK Member=Component L2 Inductor

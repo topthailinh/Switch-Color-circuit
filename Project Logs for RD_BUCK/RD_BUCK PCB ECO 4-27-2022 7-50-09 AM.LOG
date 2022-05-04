@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=L1-1
+Removed Pin From Net: NetName=Ant Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=L2-1
+Removed Pin From Net: NetName=Net1_2 Pin=L2-2
+Removed Member From Class: ClassName=RD_BUCK Member=L3
+Removed Member From Class: ClassName=RD_BUCK Member=L4
+Change Component Designator: OldDesignator=L3 NewDesignator=L1
+Change Component Designator: OldDesignator=L4 NewDesignator=L2
+Added Component: Designator=2(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=3(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_2 Pin=2-1
+Added Pin To Net: NetName=GND Pin=2-2
+Added Pin To Net: NetName=Ant Pin=3-1
+Added Pin To Net: NetName=GND Pin=3-2
+Change Net Name : Old Net Name=NetL3_2 New Net Name=NetL1_2
+Added Member To Class: ClassName=RD_BUCK Member=Component 2 Cap_SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component 3 Cap_SMD

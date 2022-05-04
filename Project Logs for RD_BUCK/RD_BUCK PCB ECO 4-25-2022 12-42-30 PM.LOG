@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetDZ1_1 Pin=DZ2-1
+Removed Pin From Net: NetName=NetD1_1 Pin=DZ2-2
+Removed Member From Class: ClassName=RD_BUCK Member=DZ2
+Change Component Footprint: Designator=DZ1 Old Footprint=DIO-2A New Footprint=DIO-SMD-123
+Added Component: Designator=DZ?(DIO-SMD-123)
+Added Pin To Net: NetName=NetDZ1_1 Pin=DZ?-1
+Added Pin To Net: NetName=NetD1_1 Pin=DZ?-2
+Added Member To Class: ClassName=RD_BUCK Member=Component DZ? DIODE Zener
+Added Member To Class: ClassName=RD_BUCK Member=Component L1 Inductor
+Added Member To Class: ClassName=RD_BUCK Member=Component L2 Inductor

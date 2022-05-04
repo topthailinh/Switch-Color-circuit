@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=RD_BUCK Member=L?
+Change Component Designator: OldDesignator=L1 NewDesignator=L3
+Change Component Designator: OldDesignator=L2 NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL3_2
+Added Member To Class: ClassName=RD_BUCK Member=Component L3 L-DIP-1
+Added Member To Class: ClassName=RD_BUCK Member=Component L4 Inductor

@@ -1,0 +1,8 @@
+Added Component: Designator=ANT1(GPS Ceramic Patch Antenna)
+Added Component: Designator=U2(BP SOT33-5L)
+Added Member To Class: ClassName=RD_BUCK Member=Component C4 Cap_SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component D3 Diode SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component DZ2 DIODE Zener
+Added Member To Class: ClassName=RD_BUCK Member=Component EC3 Cap_SMD_AL
+Added Member To Class: ClassName=RD_BUCK Member=Component Q1 ???
+Added Member To Class: ClassName=RD_BUCK Member=Component R8 Res

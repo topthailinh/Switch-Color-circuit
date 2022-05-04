@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetL1_2 Pin=L1-2
+Added Component: Designator=L1(PCBComponent_1)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2

@@ -1,0 +1,81 @@
+Change Component Designator: OldDesignator= NewDesignator=1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=DB? NewDesignator=DB1
+Change Component Designator: OldDesignator=DZ? NewDesignator=DZ1
+Change Component Designator: OldDesignator=DZ? NewDesignator=DZ2
+Change Component Designator: OldDesignator=EC? NewDesignator=EC1
+Change Component Designator: OldDesignator=EC? NewDesignator=EC2
+Change Component Designator: OldDesignator=EC? NewDesignator=EC3
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=OPTO? NewDesignator=OPTO1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Added Component: Designator=ANT1(GPS Ceramic Patch Antenna)
+Added Component: Designator=U1(SOP-8)
+Added Component: Designator=U2(BP SOT33-5L)
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetDB?_2 New Net Name=NetDB1_2
+Change Net Name : Old Net Name=NetDZ?_1 New Net Name=NetDZ1_1
+Change Net Name : Old Net Name=NetDZ?_2 New Net Name=NetDZ1_2
+Change Net Name : Old Net Name=NetEC?_2 New Net Name=NetEC1_2
+Change Net Name : Old Net Name=NetF?_1 New Net Name=NetF1_1
+Change Net Name : Old Net Name=NetOPTO?_1 New Net Name=NetOPTO1_1
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP1_3
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=Net*1_1 Pin=C1-2
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_11 Pin=C2-1
+Added Net: Name=Net*1_11
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D2-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Member To Class: ClassName=RD_BUCK Member=Component C1 0.1uF
+Added Member To Class: ClassName=RD_BUCK Member=Component C2 0.1uF
+Added Member To Class: ClassName=RD_BUCK Member=Component C3 2.2uF
+Added Member To Class: ClassName=RD_BUCK Member=Component C5 Cap_SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component D1 Diode SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component D2 Diode SMD
+Added Member To Class: ClassName=RD_BUCK Member=Component DZ1 DIODE Zener
+Added Member To Class: ClassName=RD_BUCK Member=Component EC1 Cap_SMD_AL
+Added Member To Class: ClassName=RD_BUCK Member=Component EC2 Cap_SMD_AL
+Added Member To Class: ClassName=RD_BUCK Member=Component L2 Inductor
+Added Member To Class: ClassName=RD_BUCK Member=Component Q2 ???
+Added Member To Class: ClassName=RD_BUCK Member=Component R1 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R2 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R3 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R4 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R5 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R6 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R7 Res
+Added Member To Class: ClassName=RD_BUCK Member=Component R9 Res

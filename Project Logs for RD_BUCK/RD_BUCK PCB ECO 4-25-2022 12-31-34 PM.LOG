@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D2 Old Footprint=DIO-SMD-123 New Footprint=DIO-SMD-106
+Change Component Footprint: Designator=L2 Old Footprint=inductor_SMD New Footprint=L-SMD-M-7.3x4.5
+Added Component: Designator=L?(L-SMD-0603)
+Added Component: Designator=L?(L-SMD-0603)
+Added Pin To Net: NetName=GND Pin=L?-1
+Added Pin To Net: NetName=GND Pin=L?-1
+Added Pin To Net: NetName=Ant Pin=L?-2
+Added Pin To Net: NetName=Net1_2 Pin=L?-2
+Added Member To Class: ClassName=RD_BUCK Member=Component L? Inductor
+Added Member To Class: ClassName=RD_BUCK Member=Component L? Inductor

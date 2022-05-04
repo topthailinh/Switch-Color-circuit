@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetEC1_2 Pin=L1-1
+Removed Pin From Net: NetName=NetL1_2 Pin=L1-2
+Removed Pin From Net: NetName=Vdc Pin=P1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=P1-2
+Removed Member From Class: ClassName=RD_BUCK Member=P1
+Added Component: Designator=J1(KF3-5.08)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110003"; VariantName = "[No Variations]"
+Added Component: Designator=L1(PCBComponent_1)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vdc Pin=J1-1
+Added Pin To Net: NetName=NetD1_2 Pin=J1-2
+Added Pin To Net: NetName=NetEC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetEC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetEC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetEC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetEC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=Q2-2
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=RD_BUCK Member=Component J1 KF3

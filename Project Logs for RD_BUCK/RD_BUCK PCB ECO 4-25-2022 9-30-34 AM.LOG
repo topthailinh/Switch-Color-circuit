@@ -1,0 +1,22 @@
+Added Component: Designator=*1(SO16)
+Added Component: Designator=ANT1(GPS Ceramic Patch Antenna)
+Added Component: Designator=U2(BP SOT33-5L)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=Ant Pin=*1-4
+Added Pin To Net: NetName=GND Pin=*1-5
+Added Pin To Net: NetName=PWM2 Pin=*1-9
+Added Pin To Net: NetName=3.3V Pin=*1-10
+Added Pin To Net: NetName=Net*1_11 Pin=*1-11
+Added Pin To Net: NetName=PWM1 Pin=*1-15
+Added Pin To Net: NetName=NetC5_1 Pin=U2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-3
+Added Pin To Net: NetName=Vdc Pin=U2-4
+Added Pin To Net: NetName=Vdc Pin=U2-4
+Added Pin To Net: NetName=NetR9_1 Pin=U2-5
+Added Member To Class: ClassName=RD_BUCK Member=Component *1 TG7111B
+Added Member To Class: ClassName=RD_BUCK Member=Component Q1 ???
+Added Member To Class: ClassName=RD_BUCK Member=Component U2 3.3V - 5V
